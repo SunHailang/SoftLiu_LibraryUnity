@@ -1,0 +1,11 @@
+#####################
+/NativeBinding/NativeBinding.csproj.user
+
+#####################
+/Library/
+.vs/
+/Temp/
+/packages/
+/NativeBinding/bin/
+/NativeBinding/obj/
+
